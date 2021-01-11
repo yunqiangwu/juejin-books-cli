@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/wuyun1/juejin-books-cli)
+
 # juejin-books-cli
 
 导出掘金小册,生成 md 文档.
